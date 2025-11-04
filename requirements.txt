@@ -1,0 +1,8 @@
+PyQt6
+pyqtgraph
+paho-mqtt
+mysql-connector-python
+numpy
+pandas
+scikit-learn
+python-dateutil
